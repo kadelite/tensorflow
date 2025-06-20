@@ -69,6 +69,4 @@ Example: spaCy can recognize `"Apple"` as a company, whereas string methods woul
 
 ---
 
-### ✅ Next Step:
 
-Would you like me to format this in a ready-to-use Word/PDF version for your group report or help with Part 2 practical tasks next?
